@@ -1,0 +1,11 @@
+html {
+  user-select: none;
+}
+
+canvas#gameBoard {
+  border: 1px solid black;
+}
+
+div.controls {
+  clear: both;
+}
